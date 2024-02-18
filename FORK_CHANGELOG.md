@@ -6,25 +6,25 @@ Update E3M8 - Catoptromancy
 New animated textures and flats - Craneo
 # List of patches
 [patches]
-WLLLVFL1
-WLLLVFL2
-WLLLVFL3
-WLLWTFL1
-WLLWTFL2
-WLLWTFL3
+WLLLVFL1	# Craneo
+WLLLVFL2	# Craneo	
+WLLLVFL3	# Craneo
+WLLWTFL1	# Craneo
+WLLWTFL2	# Craneo
+WLLWTFL3	# Craneo
 
 # List of Floors and Ceilings
 [flats]
-FLTFLWW1
-FLTFLWW2
-FLTFLWW3
-FLTLAVA1
-FLTLAVA2
-FLTLAVA3
-FLTLAVA4
-FLTSLUD1
-FLTSLUD2
-FLTSLUD3
-FLTWAWA1
-FLTWAWA2
-FLTWAWA3
+FLTFLWW1	# Craneo
+FLTFLWW2	# Craneo
+FLTFLWW3	# Craneo
+FLTLAVA1	# Craneo
+FLTLAVA2	# Craneo
+FLTLAVA3	# Craneo
+FLTLAVA4	# Craneo
+FLTSLUD1	# Craneo
+FLTSLUD2	# Craneo
+FLTSLUD3	# Craneo
+FLTWAWA1	# Craneo
+FLTWAWA2	# Craneo
+FLTWAWA3	# Craneo
