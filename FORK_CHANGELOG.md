@@ -2,6 +2,7 @@
 0.1.9-dev-001
 Update Title Pic
 Update E3M8 - Catoptromancy
+E3M8, E3M9 DM maps - Craneo
 
 New animated textures and flats - Craneo
 # List of patches
