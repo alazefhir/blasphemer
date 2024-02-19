@@ -79,8 +79,8 @@ E3M4 dm1      # Jute Gyte
 E3M5 dm2      # Rellik (Conversion by Jute)
 E3M6 dm3      # Rellik (Conversion by Jute)	
 E3M7 dm4      # Hellbent (Conversion by Jute)
-E3M8 PH
-E3M9 PH
+E3M8 dm38	# Craneo
+E3M9 dm39	# Craneo
 E4M1 PH
 E4M2 PH
 E4M3 PH
