@@ -3,6 +3,7 @@
 Update Title Pic
 Update E3M8 - Catoptromancy
 E3M8, E3M9 DM maps - Craneo
+Updated wand sprites - Craneo 
 
 New animated textures and flats - Craneo
 # List of patches
