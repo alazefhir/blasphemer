@@ -1,9 +1,11 @@
 #######
 0.1.9-dev-001
+Iwads of current repo are directly available.
 Update Title Pic
 Update E3M8 - Catoptromancy
 E3M8, E3M9 DM maps - Craneo
 Updated wand sprites - Craneo 
+Updated snow and New sand flat - Craneo
 
 New animated textures and flats - Craneo
 # List of patches
@@ -30,3 +32,15 @@ FLTSLUD3	# Craneo
 FLTWAWA1	# Craneo
 FLTWAWA2	# Craneo
 FLTWAWA3	# Craneo
+
+# List of Floors and Ceilings
+[flats]
+FLSNOW		# Craneo
+FLSAND		# Craneo
+
+# List of Sprites
+[sprites]
+GWNDA0	-139	-94	# Craneo
+GWNDB0	-139	-85	# Craneo
+GWNDC0	-139	-79	# Craneo
+GWNDD0	-139	-71	# Craneo
