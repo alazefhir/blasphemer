@@ -1,6 +1,6 @@
 #######
 0.1.9-dev-001
-Iwads of current repo are directly available.
+Iwads of current repo are available prebuilt on repo.
 Update Title Pic
 Update E3M8 - Catoptromancy
 E3M8, E3M9 DM maps - Craneo

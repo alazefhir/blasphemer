@@ -625,9 +625,10 @@ FLPENTA4  # Stilgar (Extra)
 FLRUFF01  # Stilgar (Extra)
 FLRUFF02  # Stilgar (Extra)
 FLRUFF03  # Stilgar (Extra)
+FLSAND	# Freedoom (Extra) - Craneo^M
 FLSKULL1  # Espi (Freedoom, recolor)
 FLSKULL2  # Espi (Freedoom)
-FLSNOW    # Stilgar (Extra)
+FLSNOW    # Stilgar (Extra) - Craneo
 FLWHICE   # Stilgar (Extra)
 BRIKBRF2  # Esselfortium (Extra)
 BRIKDKF1  # Esselfortium (Extra)
