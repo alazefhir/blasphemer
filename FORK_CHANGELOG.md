@@ -6,6 +6,7 @@ Update E3M8 - Catoptromancy
 E3M8, E3M9 DM maps - Craneo
 Updated wand sprites - Craneo 
 Updated snow and New sand flat - Craneo
+Update E6M3 add switch room, more textures/flats - Catoptromancy
 
 New animated textures and flats - Craneo
 # List of patches
