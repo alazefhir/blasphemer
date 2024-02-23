@@ -556,14 +556,14 @@ FLOOR28   # Esselfortium
 FLOOR29   # Esselfortium (Edit by Stilgar)
 FLOOR30   # Esselfortium (Edit by Stilgar)
 FLOOR31   # unknown (Extra)
-FLATHUH1  # Mellow (FreeDoom) - Craneo
-FLATHUH2  # Mellow (FreeDoom) - Craneo
-FLATHUH3  # Mellow (FreeDoom) - Craneo
-FLATHUH4  # Mellow (FreeDoom) - Craneo
-FLTLAVA1     # Stilgar
-FLTLAVA2     # Stilgar
-FLTLAVA3     # Stilgar
-FLTLAVA4     # Stilgar
+FLATHUH1  # Mellow (FreeDoom) 
+FLATHUH2  # Mellow (FreeDoom) 
+FLATHUH3  # Mellow (FreeDoom) 
+FLATHUH4  # Mellow (FreeDoom) 
+FLTLAVA1	# Stilgar - Craneo
+FLTLAVA2	# Stilgar - Craneo
+FLTLAVA3	# Stilgar - Craneo
+FLTLAVA4	# Stilgar - Craneo
 FLTSLUD1  # Craneo
 FLTSLUD2  # Craneo
 FLTSLUD3  # Craneo
