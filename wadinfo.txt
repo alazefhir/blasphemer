@@ -1223,77 +1223,77 @@ IMPXW0  	#
 IMPXX0  	# 
 IMPXY0  	# 
 IMPXZ0  	# 
-KNIGA1  21 83 # Leileilol (FreeDoom)
-KNIGA2  17 83 # Leileilol (FreeDoom)
-KNIGA3  12 83 # Leileilol (FreeDoom)
-KNIGA4  17 83 # Leileilol (FreeDoom)
-KNIGA5  20 84 # Leileilol (FreeDoom)
-KNIGA6  19 83 # Leileilol (FreeDoom)
-KNIGA7  31 83 # Leileilol (FreeDoom)
-KNIGA8  27 83 # Leileilol (FreeDoom)
-KNIGB1  19 83 # Leileilol (FreeDoom)
-KNIGB2  26 83 # Leileilol (FreeDoom)
-KNIGB3  24 83 # Leileilol (FreeDoom)
-KNIGB4  18 82 # Leileilol (FreeDoom)
-KNIGB5  20 82 # Leileilol (FreeDoom)
-KNIGB6  32 82 # Leileilol (FreeDoom)
-KNIGB7  33 83 # Leileilol (FreeDoom)
-KNIGB8  26 85 # Leileilol (FreeDoom)
-KNIGC1  21 83 # Leileilol (FreeDoom)
-KNIGC2  17 83 # Leileilol (FreeDoom)
-KNIGC3  12 83 # Leileilol (FreeDoom)
-KNIGC4  17 83 # Leileilol (FreeDoom)
-KNIGC5  20 84 # Leileilol (FreeDoom)
-KNIGC6  18 83 # Leileilol (FreeDoom)
-KNIGC7  31 83 # Leileilol (FreeDoom)
-KNIGC8  27 83 # Leileilol (FreeDoom)
-KNIGD1  19 83 # Leileilol (FreeDoom)
-KNIGD2  26 83 # Leileilol (FreeDoom)
-KNIGD3  24 83 # Leileilol (FreeDoom)
-KNIGD4  18 82 # Leileilol (FreeDoom)
-KNIGD5  20 82 # Leileilol (FreeDoom)
-KNIGD6  32 82 # Leileilol (FreeDoom)
-KNIGD7  33 83 # Leileilol (FreeDoom)
-KNIGD8  26 85 # Leileilol (FreeDoom)
-KNIGE1  24 83 # Leileilol (FreeDoom)
-KNIGE2  24 84 # Leileilol (FreeDoom)
-KNIGE3  24 84 # Leileilol (FreeDoom)
-KNIGE4  23 84 # Leileilol (FreeDoom)
-KNIGE5  23 81 # Leileilol (FreeDoom)
-KNIGE6  32 82 # Leileilol (FreeDoom)
-KNIGE7  32 84 # Leileilol (FreeDoom)
-KNIGE8  24 84 # Leileilol (FreeDoom)
-KNIGF1  20 75 # Leileilol (FreeDoom)
-KNIGF2  20 75 # Leileilol (FreeDoom)
-KNIGF3  18 76 # Leileilol (FreeDoom)
-KNIGF4  21 75 # Leileilol (FreeDoom)
-KNIGF5  20 73 # Leileilol (FreeDoom)
-KNIGF6  21 75 # Leileilol (FreeDoom)
-KNIGF7  18 76 # Leileilol (FreeDoom)
-KNIGF8  20 75 # Leileilol (FreeDoom)
-KNIGG1  19 78 # Leileilol (FreeDoom)
-KNIGG2  22 79 # Leileilol (FreeDoom)
-KNIGG3  28 79 # Leileilol (FreeDoom)
-KNIGG4  20 80 # Leileilol (FreeDoom)
-KNIGG5  19 79 # Leileilol (FreeDoom)
-KNIGG6  19 80 # Leileilol (FreeDoom)
-KNIGG7  17 79 # Leileilol (FreeDoom)
-KNIGG8  17 79 # Leileilol (FreeDoom)
-KNIGH1  36 77 # Leileilol (FreeDoom)
-KNIGH2  29 79 # Leileilol (FreeDoom)
-KNIGH3  22 78 # Leileilol (FreeDoom)
-KNIGH4  30 80 # Leileilol (FreeDoom)
-KNIGH5  27 81 # Leileilol (FreeDoom)
-KNIGH6  30 80 # Leileilol (FreeDoom)
-KNIGH7  22 78 # Leileilol (FreeDoom)
-KNIGH8  29 79 # Leileilol (FreeDoom)
-KNIGI0  42 75 # Leileilol (FreeDoom)
-KNIGJ0  42 80 # Leileilol (FreeDoom)
-KNIGK0  42 71 # Leileilol (FreeDoom)
-KNIGL0  42 74 # Leileilol (FreeDoom)
-KNIGM0  42 72 # Leileilol (FreeDoom)
-KNIGN0  42 73 # Leileilol (FreeDoom)
-KNIGO0  42 73 # Leileilol (FreeDoom)
+KNIGA1	50	88	# All KNIG* frames by AntonR
+KNIGA2	50	88
+KNIGA3	50	88
+KNIGA4	50	88
+KNIGA5	50	88
+KNIGA6	50	88
+KNIGA7	50	88
+KNIGA8	50	88
+KNIGB1	50	88
+KNIGB2	50	88
+KNIGB3	50	88
+KNIGB4	50	88
+KNIGB5	50	88
+KNIGB6	50	88
+KNIGB7	50	88
+KNIGB8	50	88
+KNIGC1	50	88
+KNIGC2	50	88
+KNIGC3	50	88
+KNIGC4	50	88
+KNIGC5	50	88
+KNIGC6	50	88
+KNIGC7	50	88
+KNIGC8	50	88
+KNIGD1	50	88
+KNIGD2	50	88
+KNIGD3	50	88
+KNIGD4	50	88
+KNIGD5	50	88
+KNIGD6	50	88
+KNIGD7	50	88
+KNIGD8	50	88
+KNIGE1	50	88
+KNIGE2	50	88
+KNIGE3	50	88
+KNIGE4	50	88
+KNIGE5	50	88
+KNIGE6	50	88
+KNIGE7	50	88
+KNIGE8	50	88
+KNIGF1	50	88
+KNIGF2	50	88
+KNIGF3	50	88
+KNIGF4	50	88
+KNIGF5	50	88
+KNIGF6	50	88
+KNIGF7	50	88
+KNIGF8	50	88
+KNIGG1	50	88
+KNIGG2	50	88
+KNIGG3	50	88
+KNIGG4	50	88
+KNIGG5	50	88
+KNIGG6	50	88
+KNIGG7	50	88
+KNIGG8	50	88
+KNIGH1	50	88
+KNIGH2	50	88
+KNIGH3	50	88
+KNIGH4	50	88
+KNIGH5	50	88
+KNIGH6	50	88
+KNIGH7	50	88
+KNIGH8	50	88
+KNIGI0	50	88
+KNIGJ0	50	88
+KNIGK0	50	88
+KNIGL0	50	88
+KNIGM0	50	88
+KNIGN0	50	88
+KNIGO0	50	88
 MNTRA1 	# All MNTR* frames made by Rei
 MNTRA2 	# 
 MNTRA3 	# 
