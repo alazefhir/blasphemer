@@ -509,6 +509,19 @@ FONTB58  0 0 # Mechadon
 FONTB_E  0 0 # * Marker *
 
 [flats]
+CRFSTON	# Craneo
+CRROAD	# Craneo
+CRGRSS1	# Craneo
+CRGRSS2	# Craneo
+CRGRSS3	# Craneo
+CRBLOOM	# Craneo
+CRFWD	# Craneo
+CRDIR2	# Craneo
+CRDIR1	# Craneo
+CRFBRIX	# Craneo
+CRCLOVR	# Craneo
+CRFALL	# Craneo
+CRPATH	# Craneo
 FLAT500   # Stilgar
 FLAT501   # Stilgar (Extra)
 FLAT502   # Stilgar
@@ -684,6 +697,13 @@ FLTTELE3  # Stilgar
 FLTTELE4  # Stilgar
 
 [patches]
+CRTREB		# Craneo
+CRWWD		# Craneo
+CRLEAF1		# Craneo
+CRLEAF2		# Craneo
+CRWBRIX		# Craneo
+CRWSTON		# Craneo
+CRFLRWL		# Craneo
 SKY1      # Stilgar
 SKY2      # Stilgar
 SKY3      # Stilgar

@@ -10,6 +10,7 @@ Update E6M3 add switch room, more textures/flats - Catoptromancy
 A few sounds and updated sprites - AntonR
 Recolor Boss Red Skeleton - MothraMaster
 New vampire monster - AntonR
+New flat and textures - Craneo
 
 New animated textures and flats - Craneo
 # List of patches
