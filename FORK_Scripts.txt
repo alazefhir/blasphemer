@@ -1,0 +1,12 @@
+### Scripts ### - Cato
+
+### Update Titlepic ###
+# rm lumps/title.png && convert lumps/help1.gif -pointsize 10 -gravity east  -font  NimbusRoman-Bold -fill white  -draw "text 5,95 '2024 v 0.1.9-fork-002 '" lumps/title.png
+
+### Prepare and Push Commit ###
+# rm blasphem.zip && rm blasphdm.zip && make
+# zip blasphem.zip blasphem.wad && zip blasphdm.zip blasphdm.wad  && rm blasphem.wad && rm blasphdm.wad 
+# git add .
+# git status
+# git commit -m "Update Resource"
+# git push -u origin master
