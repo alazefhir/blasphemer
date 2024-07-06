@@ -80,7 +80,7 @@ E3M5 		# Ettingrinder
 E3M6 		# Ettingrinder
 E3M7 		# Ettingrinder
 E3M8	  	# Catoptromancy
-E3M9 PH
+E3M9 		# Craneo
 E4M1 DM1 	# Jute Gyte
 E4M2 DM2 	# Rellik (Conversion by Jute)
 E4M3 DM3 	# Rellik (Conversion by Jute)
