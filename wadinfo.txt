@@ -250,14 +250,14 @@ IN_YAH   GOD1	0 0 # * PLACE HOLDER *
 MAPE1    0 0 # * PLACE HOLDER *
 MAPE2    0 0 # * PLACE HOLDER *   
 MAPE3    0 0 # * PLACE HOLDER *   
-FACEA0   0 0 # Reinaldo "Horror Movie Guy"
-FACEA1   0 0 # Reinaldo "Horror Movie Guy"
-FACEA2   0 0 # Reinaldo "Horror Movie Guy"
-FACEA3   0 0 # Reinaldo "Horror Movie Guy"
-FACEB0   0 0 # Reinaldo "Horror Movie Guy"
-FACEB1   0 0 # Reinaldo "Horror Movie Guy"
-FACEB2   0 0 # Reinaldo "Horror Movie Guy"
-FACEB3   0 0 # Reinaldo "Horror Movie Guy"
+FACEA0   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEA1   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEA2   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEA3   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB0   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB1   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB2   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB3   0 0 # Reinaldo "Horror Movie Guy," Craneo
 LIFEGEM0 0 0 # * PLACE HOLDER *  
 LIFEGEM1 LIFEGEM0 0 0 # * PLACE HOLDER *  
 LIFEGEM2 0 0 # * PLACE HOLDER *  
@@ -697,6 +697,7 @@ FLTTELE3  # Stilgar
 FLTTELE4  # Stilgar
 
 [patches]
+WOODBOOK	# Craneo
 CRTREB		# Craneo
 CRWWD		# Craneo
 CRLEAF1		# Craneo

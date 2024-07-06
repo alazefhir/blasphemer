@@ -15,6 +15,7 @@ New flat and textures - Craneo
 New animated textures and flats - Craneo
 # List of patches
 [patches]
+WOODBOOK	#Craneo
 WLLLVFL1	# Craneo
 WLLLVFL2	# Craneo	
 WLLLVFL3	# Craneo
