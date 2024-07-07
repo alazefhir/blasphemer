@@ -1526,150 +1526,134 @@ SNKEM0  	35 33 # Nightfang (FreeDoom)
 SNKEN0  	35 33 # Nightfang (FreeDoom)
 SNKEO0  	35 33 # Nightfang (FreeDoom)
 SNKEP0  	35 33 # Nightfang (FreeDoom)
-SOR2A0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2B0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2C0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2D0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2E0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2F0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2G0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2H0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2I0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2J0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2K0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2L0		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2M8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2N8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2O8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2P8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2Q8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2R8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2S8		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T1		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T2		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T3		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T4		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T5		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T6		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T7		# * PLACE HOLDER * Linguica (Freedoom)
-SOR2T8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRA8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRB8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRC8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRD8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRE0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRF0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRG0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRH0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRI0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRJ0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRK0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRL0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRM0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRN0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRO0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRP0		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRQ8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRR8		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS1		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS2		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS3		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS4		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS5		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS6		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS7		# * PLACE HOLDER * Linguica (Freedoom)
-SRCRS8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2A0	32	11	# SOR2* by Desfar
+SOR2B0	30	32
+SOR2C0	28	48
+SOR2D0	26	60
+SOR2E0	29	63
+SOR2F0	24	67
+SOR2G0	20	70
+SOR2H0	24	70
+SOR2I0	23	76
+SOR2J0	25	83
+SOR2K0	23	79
+SOR2L0	21	81
+SOR2M1	19	69
+SOR2M2	22	69
+SOR2M3	24	69
+SOR2M4	28	69
+SOR2M5	21	69
+SOR2M6	25	69
+SOR2M7	29	69
+SOR2M8	26	69
+SOR2N1	19	70
+SOR2N2	19	70
+SOR2N3	22	70
+SOR2N4	20	70
+SOR2N5	21	70
+SOR2N6	17	70
+SOR2N7	18	70
+SOR2N8	18	70
+SOR2O1	16	69
+SOR2O2	23	69
+SOR2O3	27	69
+SOR2O4	20	69
+SOR2O5	17	69
+SOR2O6	25	69
+SOR2O7	27	69
+SOR2O8	21	69
+SOR2P1	19	69
+SOR2P2	21	69
+SOR2P3	24	69
+SOR2P4	17	69
+SOR2P5	21	69
+SOR2P6	20	69
+SOR2P7	21	69
+SOR2P8	19	69
+SOR2Q1	24	69
+SOR2Q2	19	69
+SOR2Q3	17	69
+SOR2Q4	25	69
+SOR2Q5	24	69
+SOR2Q6	18	69
+SOR2Q7	16	69
+SOR2Q8	25	69
+SOR2R1	21	67
+SOR2R2	24	67
+SOR2R3	33	67
+SOR2R4	21	67
+SOR2R5	21	67
+SOR2R6	22	67
+SOR2R7	21	67
+SOR2R8	22	67
+SOR2S1	17	69
+SOR2S2	27	69
+SOR2S3	27	69
+SOR2S4	17	69
+SOR2S5	17	69
+SOR2S6	27	69
+SOR2S7	23	69
+SOR2S8	15	69
+SOR2T1	17	69
+SOR2T2	32	69
+SOR2T3	32	69
+SOR2T4	17	69
+SOR2T5	17	69
+SOR2T6	27	69
+SOR2T7	23	69
+SOR2T8	15	69
+SRCRA1C1	23	99	# SRCR* by Desfar
+SRCRA2C8	44	98
+SRCRA3C7	47	94
+SRCRA4C6	29	93
+SRCRA5C5	33	87
+SRCRA6C4	40	93
+SRCRA7C3	50	97
+SRCRA8C2	42	98
+SRCRB1D1	31	104
+SRCRB2D8	35	97
+SRCRB3D7	36	95
+SRCRB4D6	27	91
+SRCRB5D5	38	86
+SRCRB6D4	37	87
+SRCRB7D3	37	94
+SRCRB8D2	14	98
+SRCRE0	41	108
+SRCRF0	39	97
+SRCRG0	37	88
+SRCRH0	44	71
+SRCRI0	54	60
+SRCRJ0	57	56
+SRCRK0	58	45
+SRCRL0	58	19
+SRCRM0	58	36
+SRCRN0	58	33
+SRCRO0	58	34
+SRCRP0	58	18
+SRCRQ1	38	120
+SRCRQ2	25	117
+SRCRQ3	38	115
+SRCRQ4	35	112
+SRCRQ5	44	106
+SRCRQ6	26	108
+SRCRQ7	48	107
+SRCRQ8	61	108
+SRCRR1	49	121
+SRCRR2	67	119
+SRCRR3	48	110
+SRCRR4	26	106
+SRCRR5	52	96
+SRCRR6	47	97
+SRCRR7	31	101
+SRCRR8	26	102
+SRCRS1	16	113
+SRCRS2	30	111
+SRCRS3	50	102
+SRCRS4	55	102
+SRCRS5	51	96
+SRCRS6	53	95
+SRCRS7	28	91
+SRCRS8	27	96
 WZRDA1	21	58	# Pawel "Nmn" Zarczynski
 WZRDA2A8	25	61	# Pawel "Nmn" Zarczynski
 WZRDA3A7	29	61	# Pawel "Nmn" Zarczynski
@@ -2279,21 +2263,21 @@ RAXEB5    # BigProjectAlone
 RAXEC0    # BigProjectAlone
 RAXED0    # BigProjectAlone
 RAXEE0    # BigProjectAlone
-SDTHA0   25 62 # * PLACE HOLDER *
-SDTHB0   25 62 # * PLACE HOLDER *
-SDTHC0   25 62 # * PLACE HOLDER *
-SDTHD0   23 61 # * PLACE HOLDER *
-SDTHE0   23 61 # * PLACE HOLDER *
-SDTHF0   23 61 # * PLACE HOLDER *
-SDTHG0   23 61 # * PLACE HOLDER *
-SDTHH0   30 61 # * PLACE HOLDER *
-SDTHI0   30 61 # * PLACE HOLDER *
-SDTHJ0   32 60 # * PLACE HOLDER *
-SDTHK0   32 60 # * PLACE HOLDER *
-SDTHL0   32 60 # * PLACE HOLDER *
-SDTHM0   29 54 # * PLACE HOLDER *
-SDTHN0   29 54 # * PLACE HOLDER *
-SDTHO0   18 16 # * PLACE HOLDER *
+SDTHA0	24	69 # SDTH* by Desfar
+SDTHB0	24	72
+SDTHC0	29	70
+SDTHD0	29	70
+SDTHE0	29	70
+SDTHF0	29	70
+SDTHG0	29	70
+SDTHH0	29	70
+SDTHI0	29	78
+SDTHJ0	29	68
+SDTHK0	29	64
+SDTHL0	32	63
+SDTHM0	31	30
+SDTHN0	32	9
+SDTHO0	32	9
 SFFIA0    # * PLACE HOLDER *
 SFFIB0    # * PLACE HOLDER *
 SFFIC0    # * PLACE HOLDER *

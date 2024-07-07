@@ -13,6 +13,7 @@ New vampire monster - AntonR
 New flat and textures - Craneo
 New E3M9 - Craneo
 New Beast Sprite with art by Craneo and Animated by KatherineCode 
+New D'Sparil by Desfar
 
 New animated textures and flats - Craneo
 # List of patches
