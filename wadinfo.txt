@@ -1028,68 +1028,71 @@ ATLPB0   12 35 # Stilgar
 ATLPC0   12 35 # Stilgar
 BEAKA0   -46 -113 #
 #Monsters
-BEASA1  	28 64 # Scuba Steve
-BEASA2A8  	24 64 # Scuba Steve
-BEASA3A7  	24 64 # Scuba Steve
-BEASA4A6  	36 64 # Scuba Steve
-BEASA5  	28 64 # Scuba Steve
-BEASB1  	28 64 # Scuba Steve
-BEASB2E8	36 64 # Scuba Steve
-BEASB3E7  	36 64 # Scuba Steve
-BEASB4E6  	36 64 # Scuba Steve
-BEASB5  	28 64 # Scuba Steve
-BEASC1  	28 64 # Scuba Steve
-BEASC2F8  	36 64 # Scuba Steve
-BEASC3F7  	36 64 # Scuba Steve
-BEASC4F6  	36 64 # Scuba Steve
-BEASC5  	28 64 # Scuba Steve
-BEASD1  	28 64 # Scuba Steve
-BEASD2D8  	24 64 # Scuba Steve
-BEASD3D7  	24 64 # Scuba Steve
-BEASD4D6  	36 64 # Scuba Steve
-BEASD5  	28 64 # Scuba Steve
-BEASE1  	28 64 # Scuba Steve
-BEASE2B8  	36 64 # Scuba Steve
-BEASE3B7  	36 64 # Scuba Steve
-BEASE4B6  	36 64 # Scuba Steve
-BEASE5  	28 64 # Scuba Steve
-BEASF1  	28 64 # Scuba Steve
-BEASF2C8  	36 64 # Scuba Steve
-BEASF3C7  	36 64 # Scuba Steve
-BEASF4C6  	36 64 # Scuba Steve
-BEASF5  	28 64 # Scuba Steve
-BEASG1  	28 64 # Scuba Steve (FreeDoom)
-BEASG2G8  	24 64 # Scuba Steve (FreeDoom)
-BEASG3G7  	24 64 # Scuba Steve (FreeDoom)
-BEASG4G6  	36 64 # Scuba Steve (FreeDoom)
-BEASG5  	28 64 # Scuba Steve (FreeDoom)
-BEASH1  	28 64 # Scuba Steve (FreeDoom)
-BEASH2H8  	24 64 # Scuba Steve (FreeDoom)
-BEASH3H7  	24 64 # Scuba Steve (FreeDoom)
-BEASH4H6  	36 64 # Scuba Steve (FreeDoom)
-BEASH5  	28 64 # Scuba Steve (FreeDoom)
-BEASI1  	28 64 # Scuba Steve (FreeDoom)
-BEASI2I8  	24 64 # Scuba Steve (FreeDoom)
-BEASI3I7  	24 64 # Scuba Steve (FreeDoom)
-BEASI4I6  	36 64 # Scuba Steve (FreeDoom)
-BEASI5  	28 64 # Scuba Steve
-BEASJ0  	28 64 # Scuba Steve
-BEASK0  	33 56 # Scuba Steve
-BEASL0  	33 56 # Scuba Steve
-BEASM0  	33 56 # Scuba Steve
-BEASN0  	33 56 # Scuba Steve
-BEASO0  	33 56 # Scuba Steve
-BEASP0  	33 56 # Scuba Steve
-BEASQ0  	33 56 # Scuba Steve
-BEASR0  	33 56 # Scuba Steve
-BEASS0  	33 56 # Scuba Steve
-BEAST0  	33 56 # Scuba Steve
-BEASU0  	33 56 # Scuba Steve
-BEASV0  	33 56 # Scuba Steve
-BEASW0  	33 56 # Scuba Steve
-BEASX0  	33 56 # Scuba Steve
-BEASY0  	33 56 # Scuba Steve
-BEASZ0  	33 56 # Scuba Steve
+BEASA1D1	22	73	# BEAS* Craneo and KatherineCode 
+BEASA2D8	44	73
+BEASA3D7	49	72
+BEASA4D6	27	72
+BEASA5D5	33	73
+BEASA6D4	36	73
+BEASA7D3	47	73
+BEASA8D2	38	73
+BEASB1E1	42	75
+BEASB2E8	28	75
+BEASB3E7	34	73
+BEASB4E6	35	73
+BEASB5E5	24	73
+BEASB6E4	30	75
+BEASB7E3	44	74
+BEASB8E2	48	74
+BEASC1F1	30	77
+BEASC2F8	35	77
+BEASC3F7	37	76
+BEASC4F6	28	75
+BEASC5F5	37	76
+BEASC6F4	36	75
+BEASC7F3	38	74
+BEASC8F2	12	75
+BEASG1	56	87
+BEASG2	28	86
+BEASG3	38	84
+BEASG4	49	82
+BEASG5	36	82
+BEASG6	35	82
+BEASG7	39	85
+BEASG8	52	86
+BEASH1	47	81
+BEASH2	62	80
+BEASH3	43	78
+BEASH4	26	78
+BEASH5	53	80
+BEASH6	48	79
+BEASH7	43	79
+BEASH8	27	81
+BEASI1	17	76
+BEASI2	30	75
+BEASI3	47	75
+BEASI4	51	74
+BEASI5	49	74
+BEASI6	48	74
+BEASI7	40	74
+BEASI8	46	76
+BEASJ0	41	87
+BEASK0	39	83
+BEASL0	37	76
+BEASM0	44	65
+BEASN0	51	52
+BEASO0	56	40
+BEASP0	56	37
+BEASQ0	56	18
+BEASR0	56	87
+BEASS0	55	78
+BEAST0	54	62
+BEASU0	57	47
+BEASV0	58	38
+BEASW0	58	19
+BEASX0	58	19
+BEASY0	58	19
+BEASZ0	58	19
 CHKNA1    # Rei base on original by jute
 CHKNA2A8  # 
 CHKNA3A7  # 
