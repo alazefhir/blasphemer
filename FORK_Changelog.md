@@ -1,3 +1,17 @@
+0.1.9-fork-004
+Updated sounds AntonR
+
+kgtat2.wav
+kgtatk.wav
+kgtdth.wav
+kgtpai.wav
+kgtsit.wav
+snkact.wav
+snkatk.wav
+snkdth.wav
+snkpai.wav
+snksit.wav
+
 #######
 0.1.9-fork-002
 Iwads of current repo are available prebuilt on repo.
@@ -124,3 +138,5 @@ KNIGL0	50	88
 KNIGM0	50	88
 KNIGN0	50	88
 KNIGO0	50	88
+
+

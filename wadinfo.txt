@@ -174,10 +174,10 @@ IMPPAI   IMPPAI2 	# SuperSomariDX
 IMPSIT   # SuperSomariDX
 ITEMUP   # Jute Gyte
 KEYUP    # Jute Gyte
-KGTAT2   IMPAT2	# * PLACE HOLDER *
-KGTATK   IMPAT1	# * PLACE HOLDER *
+KGTAT2   # AntonR - CC0/public domai﻿n
+KGTATK   # AntonR - CC0/public domai﻿n
 KGTDTH	# AntonR - CC0/public domai﻿n
-KGTPAI   CLKPAI	# * PLACE HOLDER *
+KGTPAI   # AntonR - CC0/public domai﻿n
 KGTSIT	# AntonR - CC0/public domai﻿n
 LOBHIT   		# SuperSomariDX
 LOBPOW   		# SuperSomariDX
@@ -215,10 +215,10 @@ SBTACT   HEDACT	# * PLACE HOLDER *
 SBTDTH   HEDDTH	# * PLACE HOLDER *
 SBTPAI   HEDPAI	# * PLACE HOLDER *
 SNKACT	# AntonR - CC0/public domai﻿n
-SNKATK   # Jute Gyte
-SNKDTH   RIPSLOP	# * PLACE HOLDER *
-SNKPAI   BSTPAI	# * PLACE HOLDER *
-SNKSIT   # * PLACE HOLDER *
+SNKATK   # AntonR - CC0/public domai﻿n
+SNKDTH   # AntonR - CC0/public domai﻿n
+SNKPAI   # AntonR - CC0/public domai﻿n
+SNKSIT   # AntonR - CC0/public domai﻿n
 SORACT   WIZACT	# * PLACE HOLDER *
 SORATK   WIZATK	# * PLACE HOLDER *
 SORDBON  RIPSLOP	# * PLACE HOLDER *
