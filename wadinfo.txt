@@ -71,7 +71,7 @@ E2M5      	# Brad Kiefer
 E2M6      	# Brad Kiefer
 E2M7      	# Cacowad
 E2M8      	# Cacowad
-E2M9 PH
+E2M9 	# Craneo
 E3M1	  	# Suporma
 E3M2 		# Craneo
 E3M3 		# Craneo
