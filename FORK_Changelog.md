@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+New DM41 - Craneo
 New AMB3 - AntonR
 New Menu Graphics - MrFlibble
 New sound Craneo and Freedoom

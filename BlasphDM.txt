@@ -81,7 +81,7 @@ E3M6 dm3      # Rellik (Conversion by Jute)
 E3M7 dm4      # Hellbent (Conversion by Jute)
 E3M8 dm38	# Craneo
 E3M9 dm39	# Craneo
-E4M1 PH
+E4M1 dm41	# Craneo
 E4M2 PH
 E4M3 PH
 E4M4 PH
@@ -114,7 +114,7 @@ AMB1     # Jute Gyte
 AMB10    # Jute Gyte
 AMB11    # Jute Gyte
 AMB2     # Jute Gyte
-AMB3     # Jute Gyte
+AMB3      # AntonR
 AMB4     # Jute Gyte
 AMB5     # Jute Gyte
 AMB6     # Jute Gyte
@@ -174,11 +174,11 @@ IMPPAI   IMPPAI2 	# SuperSomariDX
 IMPSIT   # SuperSomariDX
 ITEMUP   # Jute Gyte
 KEYUP    # Jute Gyte
-KGTAT2   IMPAT2	# * PLACE HOLDER *
-KGTATK   IMPAT1	# * PLACE HOLDER *
-KGTDTH   RIPSLOP	# * PLACE HOLDER *
-KGTPAI   CLKPAI	# * PLACE HOLDER *
-KGTSIT   HEDSIT	# * PLACE HOLDER *
+KGTAT2  # AntonR - CC0/public domai﻿n
+KGTATK   # AntonR - CC0/public domai﻿n
+KGTDTH   # AntonR - CC0/public domai﻿n
+KGTPAI   # AntonR - CC0/public domai﻿n
+KGTSIT  # AntonR - CC0/public domai﻿n
 LOBHIT   		# SuperSomariDX
 LOBPOW   		# SuperSomariDX
 LOBSHT   		# Jute Gyte
@@ -214,11 +214,11 @@ RIPSLOP  # Jute
 SBTACT   HEDACT	# * PLACE HOLDER *
 SBTDTH   HEDDTH	# * PLACE HOLDER *
 SBTPAI   HEDPAI	# * PLACE HOLDER *
-SNKACT   WIZATK	# * PLACE HOLDER *
-SNKATK   # Jute Gyte
-SNKDTH   RIPSLOP	# * PLACE HOLDER *
-SNKPAI   BSTPAI	# * PLACE HOLDER *
-SNKSIT   # * PLACE HOLDER *
+SNKACT   # AntonR - CC0/public domai﻿n
+SNKATK   # AntonR - CC0/public domai﻿n
+SNKDTH  # AntonR - CC0/public domai﻿n
+SNKPAI   # AntonR - CC0/public domai﻿n
+SNKSIT   # AntonR - CC0/public domai﻿n
 SORACT   WIZACT	# * PLACE HOLDER *
 SORATK   WIZATK	# * PLACE HOLDER *
 SORDBON  RIPSLOP	# * PLACE HOLDER *
@@ -228,7 +228,7 @@ SORPAI   # * PLACE HOLDER *
 SORRISE  RESPAWN	# * PLACE HOLDER *
 SORSIT   # * PLACE HOLDER *
 SORZAP   # * PLACE HOLDER *
-STFCRK   # SuperSomariDX
+STFCRK   # Craneo/Freedoom
 STFHIT   # SuperSomariDX
 STFPOW   # Jute
 STNMOV   # Jute Gyte
@@ -509,6 +509,21 @@ FONTB58  0 0 # Mechadon
 FONTB_E  0 0 # * Marker *
 
 [flats]
+CRFSTON	# Craneo
+CRROAD	# Craneo
+CRFLEF1  	# Craneo
+CRFLEF2		# Craneo
+CRGRSS1	# Craneo
+CRGRSS2	# Craneo
+CRGRSS3	# Craneo
+CRBLOOM	# Craneo
+CRFWD	# Craneo
+CRDIR1	# Craneo
+CRDIR2	# Craneo
+CRFBRIX	# Craneo
+CRCLOVR	# Craneo
+CRFALL	# Craneo
+CRPATH	# Craneo
 FLAT500   # Stilgar
 FLAT501   # Stilgar (Extra)
 FLAT502   # Stilgar
@@ -560,16 +575,16 @@ FLATHUH1  # Mellow (FreeDoom)
 FLATHUH2  # Mellow (FreeDoom)
 FLATHUH3  # Mellow (FreeDoom)
 FLATHUH4  # Mellow (FreeDoom)
-FLTLAVA1  # Stilgar
-FLTLAVA2  # Stilgar
-FLTLAVA3  # Stilgar
-FLTLAVA4  # Stilgar
-FLTSLUD1  # Stilgar
-FLTSLUD2  # Stilgar
-FLTSLUD3  # Stilgar
-FLTWAWA1  # Stilgar
-FLTWAWA2  # Stilgar
-FLTWAWA3  # Stilgar
+FLTLAVA1	# Stilgar - Craneo
+FLTLAVA2	# Stilgar - Craneo
+FLTLAVA3	# Stilgar - Craneo
+FLTLAVA4	# Stilgar - Craneo
+FLTSLUD1  # Craneo
+FLTSLUD2  # Craneo
+FLTSLUD3  # Craneo
+FLTWAWA1  # Craneo
+FLTWAWA2  # Craneo
+FLTWAWA3  # Craneo
 F_SKY1    # Stilgar
 FCSTL1    # Stilgar (Extra)
 FCSTL2    # Stilgar (Extra)
@@ -674,15 +689,24 @@ WOODSLF6  # Esselfortium (Extra)
 WOODSLF7  # Esselfortium (Extra)
 WOODSLF8  # Esselfortium (Extra)
 WOODSLF9  # Esselfortium (Extra)
-FLTFLWW1  # Stilgar
-FLTFLWW2  # Stilgar
-FLTFLWW3  # Stilgar
+FLTFLWW1  # Craneo
+FLTFLWW2  # Craneo
+FLTFLWW3  # Craneo
 FLTTELE1  # Stilgar
 FLTTELE2  # Stilgar
 FLTTELE3  # Stilgar
 FLTTELE4  # Stilgar
 
 [patches]
+WOODBOOK	# Craneo
+CRTREA		# Craneo
+CRTREB		# Craneo
+CRWWD		# Craneo
+CRLEAF1		# Craneo
+CRLEAF2		# Craneo
+CRWBRIX		# Craneo
+CRWSTON		# Craneo
+CRFLRWL		# Craneo
 SKY1      # Stilgar
 SKY2      # Stilgar
 SKY3      # Stilgar
@@ -917,9 +941,9 @@ WOODSL10  # Esselfortium (Extra)
 WOODSL11  # Esselfortium (Extra)
 WALL513   # * PLACE HOLDER *
 WALL518   # * PLACE HOLDER *
-WLLWTFL1  # Stilgar
-WLLWTFL2  # Stilgar
-WLLWTFL3  # Stilgar
+WLLWTFL1  # Craneo
+WLLWTFL2  # Craneo
+WLLWTFL3  # Craneo
 
 # Floating Item offsets - 10 above ground seems good
 [sprites]

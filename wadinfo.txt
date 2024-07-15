@@ -518,8 +518,8 @@ CRGRSS2	# Craneo
 CRGRSS3	# Craneo
 CRBLOOM	# Craneo
 CRFWD	# Craneo
-CRDIR2	# Craneo
 CRDIR1	# Craneo
+CRDIR2	# Craneo
 CRFBRIX	# Craneo
 CRCLOVR	# Craneo
 CRFALL	# Craneo
