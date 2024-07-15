@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+New sound Craneo and Freedoom
 New E2M9 - Craneo
 New Craneo Flats and Textures
 Updated sounds AntonR

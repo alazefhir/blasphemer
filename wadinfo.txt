@@ -228,7 +228,7 @@ SORPAI   # * PLACE HOLDER *
 SORRISE  RESPAWN	# * PLACE HOLDER *
 SORSIT   # * PLACE HOLDER *
 SORZAP   # * PLACE HOLDER *
-STFCRK   # SuperSomariDX
+STFCRK   # Craneo/Freedoom
 STFHIT   # SuperSomariDX
 STFPOW   # Jute
 STNMOV   # Jute Gyte
