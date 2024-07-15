@@ -413,6 +413,8 @@ WALL531        64     128
 *       WALL531        0       0
 WLCRAT01        64     128
 *       WLCRAT01        0       0
+WLCRAT02    		64	128
+*	WLCRAT02    	0	0
 WOODBOOK    		64	128
 *	WOODBOOK    	0	0
 ; End
