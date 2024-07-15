@@ -710,7 +710,7 @@ CRWSTON		# Craneo
 CRFLRWL		# Craneo
 SKY1      # Stilgar
 SKY2      # Stilgar
-SKY3      # Stilgar
+SKY3      # Craneo
 PATA00    # Stilgar (NEW SIZE)
 PATA01    # Stilgar (NEW SIZE)
 PATA02    # Stilgar (NEW SIZE)

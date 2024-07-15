@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+New SKY3 - Craneo
 Updated language.lmp - Craneo
 New DM41 - Craneo
 New AMB3 - AntonR
@@ -22,7 +23,7 @@ snkpai.wav
 snksit.wav
 
 #######
-0.1.9-fork-002
+0.1.9-fork-003
 Iwads of current repo are available prebuilt on repo.
 Update Title Pic
 Update E3M8 - Catoptromancy
