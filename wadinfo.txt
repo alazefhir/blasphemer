@@ -511,6 +511,8 @@ FONTB_E  0 0 # * Marker *
 [flats]
 CRFSTON	# Craneo
 CRROAD	# Craneo
+CRFLEF1  	# Craneo
+CRFLEF2		# Craneo
 CRGRSS1	# Craneo
 CRGRSS2	# Craneo
 CRGRSS3	# Craneo
@@ -698,6 +700,7 @@ FLTTELE4  # Stilgar
 
 [patches]
 WOODBOOK	# Craneo
+CRTREA		# Craneo
 CRTREB		# Craneo
 CRWWD		# Craneo
 CRLEAF1		# Craneo
