@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+New BossMeteor Amuscaria
 New SKY3 - Craneo
 Updated language.lmp - Craneo
 New DM41 - Craneo
