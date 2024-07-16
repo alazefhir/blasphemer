@@ -879,7 +879,7 @@ WLXTR026  # Stilgar (Extra)
 WXDOOR01  # Stilgar (Extra)
 WLSTAT01  # Warfare (Semi-Extra)
 WLSTAT02  # Warfare (Extra)
-WLDEAD01  # Fredrik (Freedoom, Modded, Extra)
+WLDEAD01  # Fredrik (Freedoom, Modded, Extra), Craneo
 BRICKBLU  # Esselfortium (Extra)
 BRICKGRN  # Esselfortium (Extra, recolor)
 BRICKRNG  # Esselfortium (Extra, recolor)
