@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+Update E3M1 - Craneo
 New SwordStaff Amuscaria
 New BossMeteor Amuscaria
 New SKY3 - Craneo
