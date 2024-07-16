@@ -2341,14 +2341,14 @@ SPSHK0   16 10	# 40oz
 SRTCA0   7 63	# Stilgar
 SRTCB0   7 63	# Stilgar
 SRTCC0   7 63	# Stilgar
-STFFA0   -160 -116	# BigProjectAlone
-STFFB0   -170 -97 	# BigProjectAlone
-STFFC0   -113 -80 	# BigProjectAlone
-STFFD0   93 -96 	# BigProjectAlone
-STFFE0   94 -97 	# BigProjectAlone
-STFFF0   90 -98 	# BigProjectAlone
-STFFG0   -171 -95 	# BigProjectAlone
-STFFH0   -57 -25 	# BigProjectAlone
+STFFA0	-223	-85	# All STFF* Sprites by Amuscaria_SwordStaff
+STFFB0	-130	3
+STFFC0	-60	-56
+STFFD0	-218	-77
+STFFE0	-218	-74
+STFFF0	-218	-74
+STFFG0	-130	3
+STFFH0	-60	-47
 TELEA0   TELEE0	8 8 # * PLACE HOLDER *
 TELEB0   TELEG0        8 8 # * PLACE HOLDER *
 TELEC0   GOD1          16 15 # * PLACE HOLDER *

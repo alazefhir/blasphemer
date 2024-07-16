@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+New SwordStaff Amuscaria
 New BossMeteor Amuscaria
 New SKY3 - Craneo
 Updated language.lmp - Craneo
