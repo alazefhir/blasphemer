@@ -1,7 +1,7 @@
 #######
 0.1.9-fork-004
 
-New Menu Graphics - MrFlibble - CC
+New Menu and Slider Graphics - MrFlibble - CC
 wldead NMN Patches - CC0
 Update WLDEAD01 - Craneo
 Update E3M1 - Craneo
