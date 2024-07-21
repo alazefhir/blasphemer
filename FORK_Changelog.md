@@ -1,6 +1,8 @@
 #######
 0.1.9-fork-004
 
+Blend Files for Sprites - Craneo
+New smpla0 - Craneo
 New Menu and Slider Graphics - MrFlibble - CC
 wldead NMN Patches - CC0
 Update WLDEAD01 - Craneo
