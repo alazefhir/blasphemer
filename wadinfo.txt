@@ -13,7 +13,7 @@ LOADING  # * PLACE HOLDER *
 TITLE    # Jute Gyte
 HELP1    README	# * PLACE HOLDER *  
 HELP2    README	# * PLACE HOLDER *
-CREDIT   README	# * PLACE HOLDER * 
+CREDIT   # MrFlibble
 E2END    README	# * PLACE HOLDER *
 E2PAL    		# * PLACE HOLDER *
 FINAL1   README	# * PLACE HOLDER *
@@ -247,9 +247,9 @@ WPNUP    # Artisticdude
 ADVISOR  -257 -10 # Stilgar
 IN_X     GOD1	0 0 # * PLACE HOLDER *  
 IN_YAH   GOD1	0 0 # * PLACE HOLDER * 
-MAPE1    0 0 # * PLACE HOLDER *
-MAPE2    0 0 # * PLACE HOLDER *   
-MAPE3    0 0 # * PLACE HOLDER *   
+MAPE1    0 0 # MrFlibble - CC-BY-SA 3.0﻿/GPL
+MAPE2    0 0 # MrFlibble - CC-BY-SA 3.0﻿/GPL
+MAPE3    0 0 # MrFlibble - CC-BY-SA 3.0﻿/GPL
 FACEA0   0 0 # Reinaldo "Horror Movie Guy," Craneo
 FACEA1   0 0 # Reinaldo "Horror Movie Guy," Craneo
 FACEA2   0 0 # Reinaldo "Horror Movie Guy," Craneo
@@ -361,24 +361,24 @@ GOD2     0 0 # * (Blank) *
 M_HTIC   0 0 # Jute Gyte
 M_SLCTR1 10 -1 # Stilgar 
 M_SLCTR2 10 -1 # Stilgar
-M_SKL00 GOD1 0 0 # * PLACE HOLDER *
-M_SKL01 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL02 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL03 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL04 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL05 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL06 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL07 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL08 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL09 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL10 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL11 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL12 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL13 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL14 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL15 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL16 GOD1 0 0 # * PLACE HOLDER *   
-M_SKL17 GOD1 0 0 # * PLACE HOLDER * 
+M_SKL00	-10	-4  # MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL01	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL02	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL03	-12	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL04	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL05	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL06	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL07	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL08	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL09	-12	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL10	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL11	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL12	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL13	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL14	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL15	-12	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL16	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL17	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
 M_SLDLT -9 0		#  MrFlibble - CC-BY-SA 3.0/GPL
 M_SLDMD1 0	0	# MrFlibble - CC-BY-SA 3.0/GPL
 M_SLDMD2 0	0	# MrFlibble - CC-BY-SA 3.0/GPL
