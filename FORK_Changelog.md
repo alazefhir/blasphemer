@@ -1,6 +1,7 @@
 #######
 0.1.9-fork-004
 
+New Weapon - Amuscaria_DEclipseSword 
 Blend Files for Sprites - Craneo
 New smpla0 - Craneo
 New Menu and Slider Graphics - MrFlibble - CC

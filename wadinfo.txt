@@ -2343,14 +2343,14 @@ SPSHK0   16 10	# 40oz
 SRTCA0   7 63	# Stilgar
 SRTCB0   7 63	# Stilgar
 SRTCC0   7 63	# Stilgar
-STFFA0	-223	-85	# All STFF* Sprites by Amuscaria_SwordStaff
-STFFB0	-130	3
-STFFC0	-60	-56
-STFFD0	-218	-77
-STFFE0	-218	-74
-STFFF0	-218	-74
-STFFG0	-130	3
-STFFH0	-60	-47
+STFFA0	-206	-85	# Amuscaria_DEclipseSword 
+STFFB0	-155	10	# Amuscaria_DEclipseSword 
+STFFC0	-84		-44	# Amuscaria_DEclipseSword 
+STFFD0	-200	-69	# Amuscaria_DEclipseSword 
+STFFE0	-199	-71	# Amuscaria_DEclipseSword 
+STFFF0	-200	-70	# Amuscaria_DEclipseSword 
+STFFG0	-155	16	# Amuscaria_DEclipseSword 
+STFFH0	-82		-10	# Amuscaria_DEclipseSword 
 TELEA0   TELEE0	8 8 # * PLACE HOLDER *
 TELEB0   TELEG0        8 8 # * PLACE HOLDER *
 TELEC0   GOD1          16 15 # * PLACE HOLDER *
